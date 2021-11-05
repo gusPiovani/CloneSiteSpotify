@@ -4,7 +4,7 @@
 
 Clique na imagem abaixo ver a demo: 
 
-<a href="https://ghyrow.github.io/CloneSiteSpotify/"><img src="https://www.scdn.co/i/_global/open-graph-default.png" width="200px" height="100px"></a>
+<a href="https://guspiovani.github.io/CloneSiteSpotify/"><img src="https://www.scdn.co/i/_global/open-graph-default.png" width="200px" height="100px"></a>
 
 ## Sobre o projeto 💬
 
